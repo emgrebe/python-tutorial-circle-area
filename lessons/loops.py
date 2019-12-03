@@ -1,4 +1,4 @@
-ninjas = ['ryu', 'crystal', 'yoshi', 'ken']
+# ninjas = ['ryu', 'crystal', 'yoshi', 'ken']
 
 # PRINTS EACH INDIVIDUAL NINJA
 # for ninja in ninjas:
